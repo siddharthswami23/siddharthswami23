@@ -40,7 +40,6 @@ I love turning ideas into functional, well-designed digital products — from **
 - **Version Control:** Git, GitHub  
 - **Other Tools:** Docker, Vite, VS Code, Postman
 
-## 🏆 Stats & Achievements
 
 ### 🧩 LeetCode Stats  
 ![Leetcode Stats](https://leetcard.jacoblin.cool/siddharthswami23?theme=dark)

@@ -36,7 +36,7 @@ I love turning ideas into functional, well-designed digital products — from **
 
 - **Frontend:** React, Next.js, Tailwind CSS, Bootstrap, HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js, MongoDB, JWT Authentication  
-- **Languages:** C++, JavaScript, Python  
+- **Languages:** C++, JavaScript  
 - **Version Control:** Git, GitHub  
 - **Other Tools:** Docker, Vite, VS Code, Postman
 

@@ -40,12 +40,6 @@ I love turning ideas into functional, well-designed digital products — from **
 - **Version Control:** Git, GitHub  
 - **Other Tools:** Docker, Vite, VS Code, Postman
 
-## 🌱 Current Focus
-
-- Working on **SketchDB** – a **visual database schema designer** using React Flow, TypeScript & Vite.  
-- Exploring **AI-powered apps** like Imagify (text-to-image) and video generation tools.  
-- Deepening understanding of **Data Structures & Algorithms** and **System Design**.
-
 ## 🏆 Stats & Achievements
 
 ### 🧩 LeetCode Stats  

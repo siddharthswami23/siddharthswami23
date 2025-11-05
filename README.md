@@ -42,7 +42,7 @@ I love turning ideas into functional, well-designed digital products — from **
 
 
 ### 🧩 LeetCode Stats  
-![Leetcode Stats](https://leetcard.jacoblin.cool/siddharthswami23?theme=dark)
+<img src="https://leetcard.jacoblin.cool/Avadhut__M1629?theme=dark&ext=heatmap" alt="LeetCode Stats" />
 
 ### 🏆 GitHub Stats  
 [![trophy](https://github-profile-trophy.vercel.app/?username=siddharthswami23&theme=darkhub&row=2&column=3&margin-w=20&margin-h=20)](https://github.com/siddharthswami23/github-profile-trophy)
